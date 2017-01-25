@@ -1,0 +1,7 @@
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekThree\Projects\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.dacpac
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekThree\Projects\MovieDatabase\MovieDatabase\obj\Debug\Model.xml
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekThree\Projects\MovieDatabase\MovieDatabase\obj\Debug\refactor.xml
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekThree\Projects\MovieDatabase\MovieDatabase\obj\Debug\postdeploy.sql
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekThree\Projects\MovieDatabase\MovieDatabase\obj\Debug\predeploy.sql
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekThree\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.dll
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekThree\Projects\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.pdb
